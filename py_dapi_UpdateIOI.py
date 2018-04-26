@@ -28,7 +28,7 @@ class SessionEventHandler():
         request = service.createRequest("updateIoi")
 
         handle = request.getElement("handle")
-        handle.setElement("value", "5f20228a-bef6-41bb-81eb-6abe0b21a00e")
+        handle.setElement("value", "6ece0c19-b050-48c9-a1c4-e3ab9d443eca")
 
         ioi = request.getElement("ioi")
 
